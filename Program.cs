@@ -13,7 +13,7 @@ Console.WriteLine("/n");
 
 
 Console.Write ("Smartphone Nokia: ");
-Smartphone iphone = new Iphone(numero: "7889",modelo: "Iponei",imei: "4563",memoria: 256);
+Smartphone iphone = new Iphone(numero: "7689",modelo: "Iponei",imei: "4563",memoria: 256);
 
 iphone.Ligar();
 iphone.InstalarAplicativo("Instagram");
